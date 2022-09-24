@@ -3,9 +3,11 @@
 ---
 
 This repo contains my solutions to challenge problems in the book. I solve the questions for my youtube series titled:
-_Learn Python By Solving Problems_
+*Learn Python By Solving Problems*
+[Watch the videos]()
 
 **Learn to code by solving problems by Daniel Zingaro**
+[Get a Copy](https://nostarch.com/learn-code-solving-problems)
 
 Each Notebook will deal with a specific chapter in the book, and also contains some other problems.
 
@@ -13,18 +15,18 @@ Each Notebook will deal with a specific chapter in the book, and also contains s
 
 ---
 
-| Chapter | Title                                         | Status     |
-| ------- | --------------------------------------------- | ---------- |
-| One     | Getting Started                               | - [x] Done |
-| Two     | Making Decisions                              | - [ ] Done |
-| Three   | Repeating Codes: Definite Loops               | - [ ] Done |
-| Four    | Repeating Codes: Indefinite Loops             | - [ ] Done |
-| Five    | Organizing values Using Lists                 | - [ ] Done |
-| Six     | Designing Programs with Functions             | - [ ] Done |
-| Seven   | Reading and Writing Files                     | - [ ] Done |
-| Eight   | Organizing Values using Sets and Dictionaries | - [ ] Done |
-| Nine    | Designing Algorithms with Complete Search     | - [ ] Done |
-| Ten     | Big O and Program Efficiency                  | - [ ] Done |
+| Chapter | Title                                         | Status(Done/InProgress) |
+| ------- | --------------------------------------------- | ----------------------- |
+| One     | Getting Started                               | Done                    |
+| Two     | Making Decisions                              |                         |
+| Three   | Repeating Codes: Definite Loops               |                         |
+| Four    | Repeating Codes: Indefinite Loops             |                         |
+| Five    | Organizing values Using Lists                 |                         |
+| Six     | Designing Programs with Functions             |                         |
+| Seven   | Reading and Writing Files                     |                         |
+| Eight   | Organizing Values using Sets and Dictionaries |                         |
+| Nine    | Designing Algorithms with Complete Search     |                         |
+| Ten     | Big O and Program Efficiency                  |                         |
 
 ## Requirements
 
