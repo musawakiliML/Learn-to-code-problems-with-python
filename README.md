@@ -15,7 +15,7 @@ Each Notebook will deal with a specific chapter in the book, and also contains s
 
 | Chapter | Title                                         | Status     |
 | ------- | --------------------------------------------- | ---------- |
-| One     | Getting Started                               | - [ ] Done |
+| One     | Getting Started                               | - [x] Done |
 | Two     | Making Decisions                              | - [ ] Done |
 | Three   | Repeating Codes: Definite Loops               | - [ ] Done |
 | Four    | Repeating Codes: Indefinite Loops             | - [ ] Done |
