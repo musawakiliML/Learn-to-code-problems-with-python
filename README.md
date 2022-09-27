@@ -3,7 +3,7 @@
 ---
 
 This repo contains my solutions to challenge problems in the book. I solve the questions for my youtube series titled:
-*Learn Python By Solving Problems*
+_Learn Python By Solving Problems_
 [Watch the videos]()
 
 **Learn to code by solving problems by Daniel Zingaro**
