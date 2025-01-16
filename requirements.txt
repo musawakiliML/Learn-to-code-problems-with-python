@@ -19,6 +19,7 @@ cssselect==1.2.0
 debugpy==1.8.11
 decorator==5.1.1
 defusedxml==0.7.1
+emoji==2.14.1
 executing==2.1.0
 fake-useragent==1.4.0
 fastjsonschema==2.21.1
